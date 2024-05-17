@@ -1,0 +1,16 @@
+{
+  "name": "puppeter-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "html-pdf": "^3.0.1",
+    "puppeteer": "^20.5.0"
+  },
+  "description": ""
+}
