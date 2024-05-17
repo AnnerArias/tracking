@@ -4,7 +4,6 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "index.js",
   },
   "keywords": [],
   "author": "",
